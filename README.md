@@ -21,7 +21,7 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Live
-[Click here for a live preview!](#)
+[Click here for a live preview!](https://d4lbit.github.io/femfaq/)
 
 ## My process
 
